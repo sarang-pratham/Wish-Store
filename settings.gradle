@@ -1,0 +1,2 @@
+rootProject.name = "Wish Store"
+include ':app'

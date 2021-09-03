@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Wish Store</string>
+
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+
+    <!--Register-->
+    <string name="signup">Sign Up</string>
+    <string name="signup_login">Already a user? Login -></string>
+
+    <!--Login-->
+    <string name="login">Login</string>
+    <string name="login_signup">Not a user? Sign Up -></string>
+
+    <!--Info-->
+    <string name="info_title">More About You!</string>
+    <string name="username">Enter your name</string>
+    <string name="location">Your Location</string>
+    <string name="contact">Phone number</string>
+    <string name="cont">Continue</string>
+
+    <!--Home Fragment-->
+    <string name="home_title">Projects</string>
+
+    <!--Add Fragment-->
+    <string name="add_frag_title">Project details</string>
+    <string name="add_frag_ptitle">Title</string>
+    <string name="add_frag_pdesc">Description</string>
+    <string name="add_frag_title_hint">Enter title</string>
+    <string name="add_frag_desc_hint">Enter description</string>
+    <string name="add_frag_post_btn">Post</string>
+    <string name="add_frag_budget_title">Budget</string>
+    <string name="add_frag_budget_hint">Enter your budget</string>
+
+    <!--Profile Fragment-->
+    <string name="prof_contact"><u>Contact</u></string>
+    <string name="prof_email_info">Email:</string>
+    <string name="prof_phone_info">Phone:</string>
+
+
+    <!--Desc Fragment-->
+    <string name="frag_desc_title"><u>Project Details</u></string>
+    <string name="frag_desc_budget">Project Budget</string>
+    <string name="frag_desc_bids"><u>Proposals: </u></string>
+    <string name="frag_desc_close_btn">Close</string>
+    <string name="frag_desc_delete_btn">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

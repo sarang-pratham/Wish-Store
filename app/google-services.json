@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837147962799",
+    "firebase_url": "https://wish-store-55449-default-rtdb.firebaseio.com",
+    "project_id": "wish-store-55449",
+    "storage_bucket": "wish-store-55449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837147962799:android:f162b3e8d9cad53151535a",
+        "android_client_info": {
+          "package_name": "com.example.wishstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837147962799-50r400c2hhmafkk9r8kvbj79hml8ajam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFkJBBjF52IMXwpg3-1T85FimblBVBLjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837147962799-50r400c2hhmafkk9r8kvbj79hml8ajam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
